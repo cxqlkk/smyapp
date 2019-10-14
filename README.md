@@ -4,7 +4,6 @@
  i do not use much character of go such as channel 、goroutine e.g.  but they do used in native go libs. 
  #### Project structure
  ##### 1.controller
- > structs with methods like func (r http.ResponseWriter,w *http.Request), which are registed  in fun init()
  ##### 2.service
  > deal with business and return operateMessage
  ##### 3.dao
